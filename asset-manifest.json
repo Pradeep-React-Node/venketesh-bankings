@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/venketesh-bankings/static/css/main.e6c13ad2.css",
+    "main.js": "/venketesh-bankings/static/js/main.b676590d.js",
+    "index.html": "/venketesh-bankings/index.html",
+    "main.e6c13ad2.css.map": "/venketesh-bankings/static/css/main.e6c13ad2.css.map",
+    "main.b676590d.js.map": "/venketesh-bankings/static/js/main.b676590d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b676590d.js"
+  ]
+}
