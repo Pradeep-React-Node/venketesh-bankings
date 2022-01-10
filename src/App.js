@@ -11,7 +11,7 @@ function App() {
     <GlobalProvider>
       <div className="App">
         <Routes>
-          <Route path="/" element={<Home/>} exact />
+          <Route path="/venketesh-bankings" element={<Home/>} exact />
           <Route path="/add" element={<AddAccount/>} exact />
           <Route path="/edit/:id" element={<EditAccount/>} exact />  
         </Routes>
